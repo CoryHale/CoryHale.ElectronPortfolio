@@ -1,7 +1,7 @@
 My Operating System: macOS Big Sur 11.2
 Node: 12.19.0
 
-To run project just download app to local drive, cd into root directory, and then using the command-line run `yarn start` or `npm run start`
+To run project just download app to local drive, cd into root directory, and then using the command-line run `yarn install` or `npm install`, then run `yarn run watch` or `npm run watch`, open a second terminal and then run `yarn start` or `npm run start`.
 
 
 Issues: 
