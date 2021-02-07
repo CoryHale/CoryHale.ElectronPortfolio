@@ -1,0 +1,43 @@
+html {
+    background-color: #242525;;
+}
+
+.codes-div {
+    display: flex;
+    justify-content: space-around;
+
+    .code-div {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+
+        h3 {
+            text-transform: uppercase;
+            margin-bottom: 0;
+            color: #00FF00;
+        }
+    }
+}
+
+.twitter-div {
+    display: flex;
+    justify-content: space-around;
+
+    .feed-div {
+        a {
+            font-size: 20px;
+            color: #00FF00;
+        }
+    }
+}
+
+.link-div {
+    margin-top: 300px;
+    display: flex;
+    justify-content: space-around;
+
+    a {
+        color: #00FF00;
+    }
+}
